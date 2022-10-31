@@ -1,0 +1,24 @@
+:root{
+    --lg: 34px;
+    --md: 26px;
+    --sm: 18px;
+    --white: #fff;
+    --black: #000;
+    --dark-blue: #023047;
+    --blue: #0267c1;
+    --light-blue: #33a1fd;
+    --dark-orange: #d65108;
+    --orange: #fb8500;
+    --light-orange: #ffb703;
+}
+
+*{
+    padding: 0;
+    margin: 0;
+    box-sizing: border-box;
+    font-family: 'Lato', sans-serif;
+}
+
+.conteiner{
+    max-width: 1400px;
+}
